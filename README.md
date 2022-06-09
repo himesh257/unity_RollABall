@@ -1,5 +1,3 @@
-# Personal Projects
-
 # RollABall
 
 Rules and Details:
